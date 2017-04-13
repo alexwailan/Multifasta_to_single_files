@@ -2,10 +2,6 @@ import os
 from os import path
 import sys
 import argparse
-#infile=open(sys.argv[1])
-
-#os.system("cd /aw19/") # Add your project directory in here
-#path = sys.argv[1].split('/')[0] + "/" + sys.argv[1].split('/')[1] + "/" + sys.argv[1].split('/')[2]
 
 # input data
 parser = argparse.ArgumentParser(
